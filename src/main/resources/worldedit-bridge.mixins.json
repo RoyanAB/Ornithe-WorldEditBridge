@@ -4,7 +4,6 @@
   "package": "webridge.mixins",
   "compatibilityLevel": "JAVA_8",
   "minMixinExtrasVersion": "0.5.0-beta.2",
-  "plugin": "webridge.mixinplugin.WorldEditBridgePlugin",
   "mixins": [
     "accessors.ChunkProviderServerAccessor",
     "capturedDrops.BlockMixin",
